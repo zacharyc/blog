@@ -1,0 +1,4 @@
+baseURL = 'https://www.zacharyc.com/'
+languageCode = 'en-us'
+title = 'zacharyc'
+theme = "paper"
