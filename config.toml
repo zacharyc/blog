@@ -2,3 +2,22 @@ baseURL = 'https://www.zacharyc.com/'
 languageCode = 'en-us'
 title = 'zacharyc'
 theme = "paper"
+
+[params]
+    color = 'linen'
+
+    github = 'zacharyc'
+    rss = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+#   [[menu.main]]
+#     identifier = "contact"
+#     name = "Contact"
+#     url = "/contact/"
+#     weight = 10
