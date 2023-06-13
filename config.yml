@@ -26,6 +26,9 @@ languages:
       series: series
     menu:
       main:
+        - name: Posts
+          url: posts
+          weight: 1
         - name: About
           url: about
           weight: 4
@@ -77,16 +80,10 @@ params:
       - name: Tags
         url: tags
 
-  homeInfoParams:
-    Title: "PaperMod"
-    Content: >
-      Welcome to demo of hugo's theme PaperMod.
-
-      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - Do give a 🌟 on Github !
-
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+  # homeInfoParams:
+  #   Title: "zacharyc"
+  #   Content: >
+  #     This is the website of zachary cohen (zacharyc). The name coming from the old unix idea of creating a username with first name and last initial.
 
   socialIcons:
     - name: github
