@@ -1,13 +1,13 @@
 ---
 id: 1954
-title: 'TLog_0021 &#8211; Bringing it back &#8211; Mac tools'
-date: '2019-12-19T23:33:12-05:00'
+title: "TLog_0021 Bringing it back Mac tools"
+date: "2019-12-19T23:33:12-05:00"
 author: zacharyc
 layout: post
-guid: 'https://zacharyc.com/?p=1954'
+guid: "https://zacharyc.com/?p=1954"
 permalink: /2019/12/19/tlog_0021-bringing-it-back-mac-tools/
 categories:
-    - General
+  - General
 ---
 
 Like the great Mr. Neistat, I have taken a very long break from writing daily. Having something important to share with the world is hard, and honestly, I don’t. There is nothing overly important about me. Nothing super unique about the way I think or what I experience, so finding something to write and share is not easy.

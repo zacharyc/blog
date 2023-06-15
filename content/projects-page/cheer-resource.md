@@ -1,12 +1,12 @@
 ---
 id: 42
-title: 'Cheer Resource'
-date: '2008-01-25T15:27:52-05:00'
+title: "Cheer Resource"
+date: "2008-01-25T15:27:52-05:00"
 author: zacharyzacharyccom
 layout: page
-guid: 'https://zacharyc.com/projects/cheer-resource/'
+guid: "https://zacharyc.com/projects/cheer-resource/"
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 ---
 
 #### Motivation
@@ -56,7 +56,7 @@ Phone books are also local to one specific set of towns. If you are on the edge 
 
 ##### Cheerleading.net
 
-[![cheerleading.net Independent Gym Listing](https://i0.wp.com/zacharyc.com/wp-content/uploads/2008/02/cheerleadnet_net_window.thumbnail.png?w=1100&ssl=1)](https://i0.wp.com/zacharyc.com/wp-content/uploads/2008/02/cheerleadnet_net_window.png?ssl=1 "cheerleading.net Independent Gym Listing")
+[![cheerleading.net Independent Gym Listing](/assets/img/2008/02/cheerleadnet_net_window.thumbnail.png?w=1100&ssl=1)](/assets/img/2008/02/cheerleadnet_net_window.png?ssl=1 "cheerleading.net Independent Gym Listing")
 
 [Cheerleading.net](http://www.cheerleading.net) was one of the first site I started using when I got into the sport. I moved around a lot as kid and would have to look up neighboring gyms, and this site was the best thing that was out there.
 
@@ -66,7 +66,7 @@ Here’s what I like about this site:
 - Design of the site makes the links and text relatively easy to view.
 - Lists on the site are built with syntactically correct, definition lists.
 
-[![Cheerleading.net Gym Listing](https://i0.wp.com/zacharyc.com/wp-content/uploads/2008/02/cheerleadnet_net_list_selection.thumbnail.png?w=1100&ssl=1)](https://i0.wp.com/zacharyc.com/wp-content/uploads/2008/02/cheerleadnet_net_list_selection.png?ssl=1 "Cheerleading.net Gym Listing")
+[![Cheerleading.net Gym Listing](/assets/img/2008/02/cheerleadnet_net_list_selection.thumbnail.png?w=1100&ssl=1)](/assets/img/2008/02/cheerleadnet_net_list_selection.png?ssl=1 "Cheerleading.net Gym Listing")
 
 This site has been around for a long time and is definitely a good resource, but there are a couple of areas where this site falls short:
 
@@ -80,12 +80,12 @@ The last and probably the most trusted database (but potentially the worst inter
 
 They have made their gym information available to the public through the gym finder. Here is a screen shot of the application.
 
-[![USASF Gym Finder](https://i0.wp.com/zacharyc.com/wp-content/uploads/2008/02/usasf_gymfinder.png?w=500&ssl=1)](https://zacharyc.com/projects/cheer-resource/usasf-gym-finder/)
+[![USASF Gym Finder](/assets/img/2008/02/usasf_gymfinder.png?w=500&ssl=1)](https://zacharyc.com/projects/cheer-resource/usasf-gym-finder/)
 
 Here are my frustrations with this application:
 
 - To find the gym search you have navigate through the Javascript menu, using Members -&gt; Member Gym Search. If you are a member you probably do not need to locate another gym. This functionality should be more accessible to the average user.
-- ***This is the deal breaker!*** Once you select a country and a state (both of which are alphabetical) you have to search through the city list to find your City. This list is ***NOT*** in ***ANY*** reasonable order. It’s not alphabetical and it is not by location. This means you have to look through potentially the whole list for each town in your area.
+- **_This is the deal breaker!_** Once you select a country and a state (both of which are alphabetical) you have to search through the city list to find your City. This list is **_NOT_** in **_ANY_** reasonable order. It’s not alphabetical and it is not by location. This means you have to look through potentially the whole list for each town in your area.
 - This site is limited only to All Star programs. If you are looking for a Pop Warner team, or local colleges, you are out of luck.
 
 ##### Cheer Resources Approach

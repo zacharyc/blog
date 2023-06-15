@@ -1,16 +1,16 @@
 ---
 id: 572
-title: 'Facebook Is Losing It&#8217;s Fun'
-date: '2009-04-03T17:04:07-04:00'
+title: "Facebook Is Losing It&#8217;s Fun"
+date: "2009-04-03T17:04:07-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=572'
+guid: "https://zacharyc.com/?p=572"
 permalink: /2009/04/03/facebook-is-losing-its-fun/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Technology
-    - Usability
+  - Technology
+  - Usability
 ---
 
 Today I decided to create a Facebook account as woodside’s cheerleading coach. The benefit of this account is that it keeps its distance from my personal Facebook network, but still allows me to create events and groups for Woodside cheerleading. Anyway, I wanted my name to “Coach Zack”. Facebook rejected the name. So I tried to create ‘Zachary “Coach” Cohen’, again, Facebook automatically rejected it.
@@ -19,4 +19,4 @@ Now I have been a big Facebook fan in the past, but of recent, I’m more dissap
 
 Please Facebook, bring the fun back.
 
-[![funlessfacebook](https://i0.wp.com/zacharyc.com/wp-content/uploads/2009/04/funlessfacebook.png?resize=300%2C202&ssl=1 "funlessfacebook")](https://i0.wp.com/zacharyc.com/wp-content/uploads/2009/04/funlessfacebook.png?ssl=1)
+[![funlessfacebook](/assets/img/2009/04/funlessfacebook.png?resize=300%2C202&ssl=1 "funlessfacebook")](/assets/img/2009/04/funlessfacebook.png?ssl=1)

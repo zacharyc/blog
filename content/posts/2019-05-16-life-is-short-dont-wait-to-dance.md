@@ -1,16 +1,19 @@
 ---
 id: 1876
-title: 'Life Is Short, Don&#8217;t Wait To Dance'
-date: '2019-05-16T22:17:31-04:00'
+title: "Life Is Short, Don't Wait To Dance"
+date: "2019-05-16T22:17:31-04:00"
 author: zacharyc
 layout: post
-guid: 'https://zacharyc.com/?p=1876'
+guid: "https://zacharyc.com/?p=1876"
 permalink: /2019/05/16/life-is-short-dont-wait-to-dance/
 categories:
-    - Books
+  - Books
 ---
 
-<figure class="wp-block-image">![](https://i1.wp.com/www.zacharyc.com/wp-content/uploads/2019/05/javier-allegue-barros-406855-unsplash.jpg?fit=1024%2C618)<figcaption>Photo by [Javier Allegue Barros](https://unsplash.com/photos/Kr3Ls8Tw8h4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/dance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption></figure>[**Life is Short, Don’t Wait to Dance**](http://officialmissval.com/book/) is a nonfiction work by [Valorie Kondos Field](http://officialmissval.com) about her life, beliefs and coaching philosophy. This book covers her history as a coach, how she ended up as a member of the UCLA hall of fame and brought the best out of her athletes.
+![](/assets/img/2019/05/javier-allegue-barros-406855-unsplash.jpg?fit=1024%2C618)
+[Javier Allegue Barros](https://unsplash.com/photos/Kr3Ls8Tw8h4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/dance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+[**Life is Short, Don’t Wait to Dance**](http://officialmissval.com/book/) is a nonfiction work by [Valorie Kondos Field](http://officialmissval.com) about her life, beliefs and coaching philosophy. This book covers her history as a coach, how she ended up as a member of the UCLA hall of fame and brought the best out of her athletes.
 
 This book is worth the read. Even if you read this whole post, I won’t do it justice.
 

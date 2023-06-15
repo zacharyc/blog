@@ -1,19 +1,19 @@
 ---
 id: 40
-title: 'Battle of The GTD Apps'
-date: '2008-01-09T14:26:28-05:00'
+title: "Battle of The GTD Apps"
+date: "2008-01-09T14:26:28-05:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=40'
+guid: "https://zacharyc.com/?p=40"
 permalink: /2008/01/09/battle-of-the-gtd-apps/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Programming
-    - Technology
+  - Programming
+  - Technology
 tags:
-    - Apple
-    - Apps
+  - Apple
+  - Apps
 ---
 
 [Getting Things Done (GTD)](http://en.wikipedia.org/wiki/Getting_Things_Done) has become increasingly popular in past few years. There have been many attempts to build an application that integrates with the whole framework. As a mac user I have been aware of a few, but the big one of the past was [Kinkless GTD](http://kinkless.com/kgtd). This application consists of a bunch of applescripts meant to work with [OmniOutliner](http://www.omnigroup.com/omnioutliner). There was a lot of hype surrounding the application, and for good reason, it was one of the best options out there. The problem was, it wasn’t good enough for me to get really committed. You had to hit this “sync” button ever couple of seconds to make sure everything was up to date, contexts were confusing, and sometimes the kinkless page would go down for days at a time. Others shared my concerns and now there are several different applications that aim to fill the same gap that KGTD left open. In this article I will be comparing [OmniFocus](http://www.omnigroup.com/omnifocus) and [Things](http://culturedcode.com/things/).
@@ -37,18 +37,18 @@ Despite my misgivings, the app has a strong community and a good development cor
 
 This leads me to my next app, [Things](http://culturedcode.com/things/). This app is made by a much smaller company in Germany, so it might not have the same market penetration as the OmniGroup, but in my opinion this is what I really expect in terms of a GTD application. Keep in mind that I have only been using Things for about a day and I have been following OmniFocus for quite some time now, so my feedback on this app might not be as complete. Before I jump into feature analysis, here is a screenshot of things:
 
-[<span class="Apple-style-span" style="color:#000000;text-decoration:none;">![Screenshot of Things](https://i0.wp.com/zacharyc.com/wp-content/uploads/2008/01/things_window.png?w=1100&ssl=1)</span><span class="Apple-tab-span" style="white-space:pre;"></span>](https://zacharyc.com/2008/01/09/battle-of-the-gtd-apps/screenshot-of-things/ "Screenshot of Things")
+[<span class="Apple-style-span" style="color:#000000;text-decoration:none;">![Screenshot of Things](/assets/img/2008/01/things_window.png?w=1100&ssl=1)</span><span class="Apple-tab-span" style="white-space:pre;"></span>](https://zacharyc.com/2008/01/09/battle-of-the-gtd-apps/screenshot-of-things/ "Screenshot of Things")
 
 Now, Things is still in a beta stage, and the author claims that they will be releasing the code later in the spring. The price of this app will be $49 when released, compared to the OmniFocus $79. The overall look and feel of the app, though is still significantly more “finished” than OmniFocus, but some of the main features of OmniFocus are missing.
 
 Here’s a rundown of what I like about Things:
 
 ```
-<ul>    
-    <li>Very professional looking application. Okay, yes I'll admit it, looks are only skin deep, but when it comes to working with an app, if it is pretty look at, you will look at it more, therefore I feel that aesthetics can count for something here.</li>  
+<ul>
+    <li>Very professional looking application. Okay, yes I'll admit it, looks are only skin deep, but when it comes to working with an app, if it is pretty look at, you will look at it more, therefore I feel that aesthetics can count for something here.</li>
     <li>The cost is lower than OmniFocus. Saving money is always a good thing.</li>
-    <li>The layout is more structured than OmniFocus. By this, I mean that the menu on the let has specific sections: Collect, Focus, Organize; and then brakes down the tasks within this section. If I don't know the full GTD rules or I don't want to reread David Allen before I start using the application, this makes it more clear where I should put all my tasks.</li>   
-    <li>It allows you tag your items. This is both a positive and a negative for me. It allows me to put tags with an item that I think belong in different projects and then find them together, but the downside is, Tags replace the notion of context in OmniFocus. I think these are two different items, tags relate to the type of app, but I feel like context relates to where/how the task should be completed. By handling both of these with items with tags its not always clear how to differentiate which tags belong to which.</li> 
+    <li>The layout is more structured than OmniFocus. By this, I mean that the menu on the let has specific sections: Collect, Focus, Organize; and then brakes down the tasks within this section. If I don't know the full GTD rules or I don't want to reread David Allen before I start using the application, this makes it more clear where I should put all my tasks.</li>
+    <li>It allows you tag your items. This is both a positive and a negative for me. It allows me to put tags with an item that I think belong in different projects and then find them together, but the downside is, Tags replace the notion of context in OmniFocus. I think these are two different items, tags relate to the type of app, but I feel like context relates to where/how the task should be completed. By handling both of these with items with tags its not always clear how to differentiate which tags belong to which.</li>
     <li>The Focus section allows you to clearly see what you have to do and what you can do. The whole goal of GTD is to make it easy to see what you should be doing next. This focus section does exactly that.</li>
 </ul>
 

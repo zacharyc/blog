@@ -1,21 +1,21 @@
 ---
 id: 1211
-title: 'Westport Lobster Fest'
-date: '2012-07-26T14:53:10-04:00'
+title: "Westport Lobster Fest"
+date: "2012-07-26T14:53:10-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=1211'
+guid: "https://zacharyc.com/?p=1211"
 permalink: /2012/07/26/westport-lobster-fest/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Design
+  - Design
 ---
 
 A couple weeks ago my brother approached me to help him with building a website for Westport Rotary’s Lobster Fest. I obliged and helped build the site at: [The Rotary’s Website](http://www.directory-online.com/Websites/WestportRotary/Pages/LobsterFestInfo.html).
 
 I started off by sketching a lobster in Paper:  
-[![](https://i0.wp.com/zacharyc.com/wp-content/uploads/2012/07/lobster.jpg?w=600&ssl=1 "lobster")](https://i0.wp.com/zacharyc.com/wp-content/uploads/2012/07/lobster.jpg?ssl=1)
+[![](/assets/img/2012/07/lobster.jpg?w=600&ssl=1 "lobster")](/assets/img/2012/07/lobster.jpg?ssl=1)
 
 Then I started thinking, my goals in creating the site were:
 

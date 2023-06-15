@@ -1,18 +1,20 @@
 ---
 id: 1800
-title: 'Battle For Bolts 2018'
-date: '2018-12-10T20:01:05-05:00'
+title: "Battle For Bolts 2018"
+date: "2018-12-10T20:01:05-05:00"
 author: zacharyc
 layout: post
-guid: 'https://zacharyc.com/?p=1800'
+guid: "https://zacharyc.com/?p=1800"
 permalink: /2018/12/10/battle-for-bolts-2018/
 enclosure:
-    - "https://zacharyc.com/wp-content/uploads/2018/12/IMG_6554.m4v\n12889753\nvideo/mp4\n"
+  - "https://zacharyc.com/wp-content/uploads/2018/12/IMG_6554.m4v\n12889753\nvideo/mp4\n"
 categories:
-    - Personal
+  - Personal
 ---
 
-<div class="wp-video" style="width: 640px;"><video class="wp-video-shortcode" controls="controls" height="360" id="video-1800-1" preload="metadata" width="640"><source src="https://zacharyc.com/wp-content/uploads/2018/12/IMG_6554.m4v?_=1" type="video/mp4"></source>[https://zacharyc.com/wp-content/uploads/2018/12/IMG\_6554.m4v](https://zacharyc.com/wp-content/uploads/2018/12/IMG_6554.m4v)</video></div>Last weekend was the annual Battle for Bolts at the Planet Granite Belmont location. It’s a 12 hour overnight climbing competition. I was unable to attend the Belmont one last year, but I did do the Portland one. This was my first Belmont B4B, and I entered it with great anticipation.
+<video class="wp-video-shortcode" controls="controls" height="360" id="video-1800-1" preload="metadata" width="640"><source src="/assets/img/2018/12/IMG_6554.m4v?_=1" type="video/mp4"></source>[/assets/img/2018/12/IMG_6554.m4v](/assets/img/2018/12/IMG_6554.m4v)</video>
+
+Last weekend was the annual Battle for Bolts at the Planet Granite Belmont location. It’s a 12 hour overnight climbing competition. I was unable to attend the Belmont one last year, but I did do the Portland one. This was my first Belmont B4B, and I entered it with great anticipation.
 
 ## Rules:
 
@@ -28,7 +30,7 @@ categories:
 
 This year I was part of team **D-AR-E To Be Great!** with Linda. Our set goal at the beginning was still to be there at the end. Basically, not get Evan to kick us out of the space. For those of you who don’t know, Evan is the gym manager at Belmont and my cohost on my podcast [South Beta Podcast](http://southbeta.com) and as manager of the gym there was some serious concern if we would survive the full night together.
 
-![56542196865__5D9724C4-371F-4C60-AC25-E3BAB7741CD0](https://i0.wp.com/zacharyc.com/wp-content/uploads/2018/12/56542196865__5D9724C4-371F-4C60-AC25-E3BAB7741CD0-1024x769.jpg?resize=1024%2C769&ssl=1)
+![56542196865__5D9724C4-371F-4C60-AC25-E3BAB7741CD0](/assets/img/2018/12/56542196865__5D9724C4-371F-4C60-AC25-E3BAB7741CD0-1024x769.jpg?resize=1024%2C769&ssl=1)
 
 Last year I had spent the day before the event driving up to Portland. This year, I spent the night before at a corporate party, and the day before watching a roommate compete in a ballroom dance competition. The point is, I don’t have a good track record of starting these events well rested.
 
@@ -42,7 +44,7 @@ Other than that, I only have one other gripe. There was supposed to be headlamp 
 
 At the end of the competition, while they are finishing up scores, they do a bunch of raffles. Many prizes are given away. This year I won a carabiner, which was a consolation prize, but I was stoked. This is a prize I will actually use and thing that I actually wanted.
 
-![IMG_6564 (1)](https://i0.wp.com/zacharyc.com/wp-content/uploads/2018/12/IMG_6564-1.jpg?resize=775%2C1024&ssl=1)
+![IMG_6564 (1)](/assets/img/2018/12/IMG_6564-1.jpg?resize=775%2C1024&ssl=1)
 
 ## Conclusion and Lessons
 

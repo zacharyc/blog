@@ -42,7 +42,7 @@ If none of these options really match what you’re doing, work with a represent
 
 Another factor in the cost of a T-shirt is the number of colors and locations. I’m not a screen printer, but as I understand it, colors are layered on. Each layer requires its own screen. Creating a screen has a cost. Changing which screen is on the machine has a cost. If you want to print more than just on the front—for example putting a logo mark on the back of the neck—you have to pay for another screen and another print. All of these costs go into your final shirt design. For this reason, most of my shirts are single color, single location prints.
 
-<figure class="wp-block-image size-large">![](https://i0.wp.com/zacharyc.com/wp-content/uploads/2021/02/IMG_0130.jpeg?resize=768%2C1024&ssl=1)<figcaption>This is a two color print. One for the black and then another for the white.</figcaption></figure>## Shipping
+<figure class="wp-block-image size-large">![](/assets/img/2021/02/IMG_0130.jpeg?resize=768%2C1024&ssl=1)<figcaption>This is a two color print. One for the black and then another for the white.</figcaption></figure>## Shipping
 
 One T-shirt is light. 100 T-shirts starts to get heavier. When trying to make an economical T-shirt, shipping can really add up. For this reason, if I’m making a smaller number of shirts, it might make more sense to find a local screen printer than pay for shipping, even if the cost per shirt is higher. You can just search for “Screen Printing Near Me” and find some good results. Most shops will give you a quote if you know the shirt, colors, and locations of prints.
 

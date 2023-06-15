@@ -1,15 +1,15 @@
 ---
 id: 1026
-title: 'Initial Kindle Experience'
-date: '2011-04-27T18:37:04-04:00'
+title: "Initial Kindle Experience"
+date: "2011-04-27T18:37:04-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=1026'
+guid: "https://zacharyc.com/?p=1026"
 permalink: /2011/04/27/initial-kindle-experience/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Technology
+  - Technology
 ---
 
 My family gave me a Kindle for my birthday, and while I haven’t used it too much, it is starting to become a device I use more and more.
@@ -18,17 +18,17 @@ The big problem for me is the cost of digital books. I have a huge library. I’
 
 My largest gripe at the moment is that some tech books cost more digitally then they do for physical copies mailed to my house. Here’s an example:
 
-[![](https://i0.wp.com/zacharyc.com/wp-content/uploads/2011/04/overpricekindleedition.png?resize=424%2C261&ssl=1 "OverpriceKindleEdition")](https://i0.wp.com/zacharyc.com/wp-content/uploads/2011/04/overpricekindleedition.png?ssl=1)
+[![](/assets/img/2011/04/overpricekindleedition.png?resize=424%2C261&ssl=1 "OverpriceKindleEdition")](/assets/img/2011/04/overpricekindleedition.png?ssl=1)
 
 Other than demand setting price, I see no reason for this. How can a book cost more than $3 dollars more for the digital copy? The costs are so much cheaper with digital copy.
 
-| Physical Cost | Digital Cost |
-|---|---|
-| Paper | Formatting |
-| Printing | Network Bandwidth |
-| Binding |  |
-| Shipping |  |
-| Storage |  |
+| Physical Cost | Digital Cost      |
+| ------------- | ----------------- |
+| Paper         | Formatting        |
+| Printing      | Network Bandwidth |
+| Binding       |                   |
+| Shipping      |                   |
+| Storage       |                   |
 
 The digital costs aren’t completely invisible, but they seem to far undercut the physical costs. It makes no sense to me why the kindle edition would cost more.
 

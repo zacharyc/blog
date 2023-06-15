@@ -1,15 +1,15 @@
 ---
 id: 740
-title: 'Mozy Site Redesign, bad blue text'
-date: '2010-02-17T18:57:15-05:00'
+title: "Mozy Site Redesign, bad blue text"
+date: "2010-02-17T18:57:15-05:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=740'
+guid: "https://zacharyc.com/?p=740"
 permalink: /2010/02/17/mozy-site-redesign-bad-blue-text/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Usability
+  - Usability
 ---
 
 [Mozy](http://www.mozy.com) is a solution for personal and professional computing backup. They will install some software on your PC to back up your machine using their remote location. I’ve had Mozy for nearly two years, and honestly, I hate it. There software brings my machine to a crawl. The backups take forever. They presets for backups don’t cover everything I want. Not to mention their desktop software just randomly stopped working. When I try to remove and reinstall it, it sill doesn’t show up. I’m sure I could spend more time looking into what is going on with the install and fix it, but honestly, I pay for this service and it should just work. I haven’t done anything crazy.
@@ -20,17 +20,17 @@ When the site finally did come up, I was putt off by parts of it. One part in pa
 
 Before I get ahead of myself, here’s a screen shot of the entire site.
 
-[![](https://i0.wp.com/zacharyc.com/wp-content/uploads/2010/02/mozysite.png?resize=450%2C345&ssl=1 "mozysite")](https://i0.wp.com/zacharyc.com/wp-content/uploads/2010/02/mozysite.png?ssl=1)
+[![](/assets/img/2010/02/mozysite.png?resize=450%2C345&ssl=1 "mozysite")](/assets/img/2010/02/mozysite.png?ssl=1)
 
 At first, not bad. Nothing that I think is radical about it. It wouldn’t make my list of top sites, but it is clean simple and clear. Looks like they have a good message and they are using imagery to convince me this is a personal company that wants to help.
 
 My eye got drawn the gray box in the center of the page.
 
-[![](https://i0.wp.com/zacharyc.com/wp-content/uploads/2010/02/bluetext.png?resize=577%2C153&ssl=1 "bluetext")](https://i0.wp.com/zacharyc.com/wp-content/uploads/2010/02/bluetext.png?ssl=1)
+[![](/assets/img/2010/02/bluetext.png?resize=577%2C153&ssl=1 "bluetext")](/assets/img/2010/02/bluetext.png?ssl=1)
 
 This was again, okay, because they want want me to sign up, and that is where the sign up link is. Alright. Now, I see “Mozy has a plan just for your size.” in blue text. Yes, there is a clear “Learn More”, but I see blue (highlighted) text and and I want to click on it. Granted I’m picky, but I believe if you have blue text it should be a link. Especially if you have content related to that text.
 
-[![](https://i0.wp.com/zacharyc.com/wp-content/uploads/2010/02/texthighlight.png?resize=577%2C153&ssl=1 "texthighlight")](https://i0.wp.com/zacharyc.com/wp-content/uploads/2010/02/texthighlight.png?ssl=1)
+[![](/assets/img/2010/02/texthighlight.png?resize=577%2C153&ssl=1 "texthighlight")](/assets/img/2010/02/texthighlight.png?ssl=1)
 
 Take a second and look back at the main image. You will notice that in the boxes below, blue text does represent a link. In the “Sign up for Mozy” button, blue text is a link. In the “View the Mozy intro video” graphic in the top box, blue text is used for a link.
 

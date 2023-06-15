@@ -1,15 +1,15 @@
 ---
 id: 1398
-title: 'Writing a Safari Extension'
-date: '2015-10-30T04:21:34-04:00'
+title: "Writing a Safari Extension"
+date: "2015-10-30T04:21:34-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=1398'
+guid: "https://zacharyc.com/?p=1398"
 permalink: /2015/10/30/writing-a-safari-extension/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Web
+  - Web
 ---
 
 I’ve switched to using Safari as my primary browser. It works pretty well because I use it on all my devices so passwords and bookmarks are available on all devices.
@@ -21,11 +21,11 @@ I have worked on several chrome extensions in the past, so I thought this would 
 Firstly, you can see the code I used to make the extension [here.](https://github.com/zacharyc/safari-widen-github)
 
 This essentially takes something like this:  
-[![Narrow Github](https://i0.wp.com/zacharyc.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.13.10-PM.png?resize=1024%2C711&ssl=1)](https://i0.wp.com/zacharyc.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.13.10-PM.png?ssl=1)
+[![Narrow Github](/assets/img/2015/10/Screen-Shot-2015-10-29-at-9.13.10-PM.png?resize=1024%2C711&ssl=1)](/assets/img/2015/10/Screen-Shot-2015-10-29-at-9.13.10-PM.png?ssl=1)
 
 and turns it into something like this:
 
-[![Wide Github](https://i0.wp.com/zacharyc.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.13.16-PM.png?resize=1024%2C711&ssl=1)](https://i0.wp.com/zacharyc.com/wp-content/uploads/2015/10/screen-shot-2015-10-29-at-9-13-16-pm.png?ssl=1)
+[![Wide Github](/assets/img/2015/10/Screen-Shot-2015-10-29-at-9.13.16-PM.png?resize=1024%2C711&ssl=1)](/assets/img/2015/10/screen-shot-2015-10-29-at-9-13-16-pm.png?ssl=1)
 
 Here are some of my tips for writing a Safari Extensions:
 

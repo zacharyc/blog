@@ -1,22 +1,22 @@
 ---
 id: 17
-title: 'My Thoughts on Software Engineering'
-date: '2007-09-16T11:54:36-04:00'
+title: "My Thoughts on Software Engineering"
+date: "2007-09-16T11:54:36-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=17'
+guid: "https://zacharyc.com/?p=17"
 permalink: /2007/09/16/my-thoughts-on-software-engineering/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Technology
+  - Technology
 ---
 
 I was having a conversation with a couple of friends the other day, when the topic of [Software Engineering](http://en.wikipedia.org/wiki/Software_engineering) came up. I have been working in the software industry for over two years. I do not consider this to be a large amount of time. Nevertheless, I have learned a significant amount of software engineering.
 
 Let me back up. In college, most computer science students take a class on how to design and build software, titled Software Engineering. In this class they give you a textbook and teach you the different “models” of software engineering. They present this Utopian view of the software engineering process that I have never seen implemented in the real world. Most of what I see is similar to this graphic I found:
 
-[![Software Engineering Graphic](https://i0.wp.com/zacharyc.com/wp-content/uploads/2007/09/3511.jpg?w=1100&ssl=1)](https://i0.wp.com/zacharyc.com/wp-content/uploads/2007/09/3511.jpg?ssl=1 "Software Engineering Graphic")
+[![Software Engineering Graphic](/assets/img/2007/09/3511.jpg?w=1100&ssl=1)](/assets/img/2007/09/3511.jpg?ssl=1 "Software Engineering Graphic")
 
 The biggest problem with the software engineering designs is that the business side does not understand the benefits of software engineering. It might be a good idea to force the business people to take a class in the pitfalls of software engineering. I have heard countless stories of people creating rush prototypes of a project, showing it their business sponsors, and their business asking for it be in production the next day. Most prototypes are not designed to be released. Often times they are missing key components of functionality(like login validation).
 

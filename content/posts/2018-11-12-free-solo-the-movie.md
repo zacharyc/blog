@@ -1,14 +1,14 @@
 ---
 id: 1774
-title: 'Free Solo The Movie'
-date: '2018-11-12T18:28:16-05:00'
+title: "Free Solo The Movie"
+date: "2018-11-12T18:28:16-05:00"
 author: zacharyc
 layout: post
-guid: 'https://zacharyc.com/?p=1774'
+guid: "https://zacharyc.com/?p=1774"
 permalink: /2018/11/12/free-solo-the-movie/
 image: /wp-content/uploads/2018/11/IMG_6334-740x430.jpg
 categories:
-    - Movies
+  - Movies
 ---
 
 The world is full of exceptional people. These people do things in a way the rest of us think are a little crazy. Some of them are crazy in business, like Bill Gates or Steve Jobs. Some are crazy in science like Einstien or Feynman. Some are crazy athletes like Sean White or Tony Hawk. Alex Honnold is one of those “crazy” people, and he is crazy about his Free Solo climbing.

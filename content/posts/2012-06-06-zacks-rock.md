@@ -1,16 +1,16 @@
 ---
 id: 1183
-title: 'Zack&#8217;s Rock'
-date: '2012-06-06T19:00:38-04:00'
+title: "Zack's Rock"
+date: "2012-06-06T19:00:38-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=1183'
+guid: "https://zacharyc.com/?p=1183"
 permalink: /2012/06/06/zacks-rock/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - 'Make Something Manifesto'
-    - Photo
+  - "Make Something Manifesto"
+  - Photo
 ---
 
 On an excursion to Death Valley a couple months ago, we decided to get up to take sunrise pictures at Zabriskie Point. This was my shot from that day. The weird looking rock formation the right we named “Zack’s Rock” because I took off to climb it after we were done taking pictures. I did not make it all the way out.

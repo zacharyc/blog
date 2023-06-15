@@ -1,18 +1,20 @@
 ---
 id: 1797
-title: 'T_Logging It : TLog_0020'
-date: '2018-12-07T17:02:25-05:00'
+title: "T_Logging It : TLog_0020"
+date: "2018-12-07T17:02:25-05:00"
 author: zacharyc
 layout: post
-guid: 'https://zacharyc.com/?p=1797'
+guid: "https://zacharyc.com/?p=1797"
 permalink: /2018/12/07/t_logging-it-tlog_0020/
 categories:
-    - Uncategorized
+  - Uncategorized
 ---
 
 I was going through my old notebook and saw this:
 
-<figure class="wp-block-image">![](https://i0.wp.com/zacharyc.com/wp-content/uploads/2018/12/a6153e3f5287775e85926762b0741f7c.jpeg?resize=1100%2C421&ssl=1)</figure>This is from a very old project notebook. Two project notebooks ago, actually (for scale, I finish one of these every couple of years). I’m often reticent about sharing my thoughts. I don’t think they are important. Who cares what I’m thinking? I barely care what I’m thinking. I write it down and take notes so I can look back at it, but I almost never do.
+![](/assets/img/2018/12/a6153e3f5287775e85926762b0741f7c.jpeg?resize=1100%2C421&ssl=1)
+
+This is from a very old project notebook. Two project notebooks ago, actually (for scale, I finish one of these every couple of years). I’m often reticent about sharing my thoughts. I don’t think they are important. Who cares what I’m thinking? I barely care what I’m thinking. I write it down and take notes so I can look back at it, but I almost never do.
 
 What this note says is that it is not for us to determine what is really the story. We share what is going on and slowly a story evolves. The story can’t show up without the seed content. Maybe our lives are interesting? Maybe we have more to share of interest than we know.
 

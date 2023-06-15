@@ -1,25 +1,25 @@
 ---
 id: 171
-title: 'MFC&#8217;s Radio Button Hack'
-date: '2008-09-04T16:15:51-04:00'
+title: "MFC&#8217;s Radio Button Hack"
+date: "2008-09-04T16:15:51-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=171'
+guid: "https://zacharyc.com/?p=171"
 permalink: /2008/09/04/mfcs-radio-button-hack/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Programming
-    - Usability
+  - Programming
+  - Usability
 ---
 
 **Disclaimer:** I am a mac user, but a windows programmer.
 
 MFC is Microsoft’s old Window framework. Basically it is an object oriented wrapper around the traditional Win32 programming environment presented by Microsoft to help develop windows. Win32 is many years old, and so is MFC. Microsoft’s new frameworks, .NET and WPF (Windows Presentation Framework) are supposedly better than MFC, but I have yet to play with them.
 
-MFC has tools for many different types of controls, from buttons to dialogs, windows, and menus. MFC allows the user to create the button, override some basic functionality, provide message callbacks and otherwise manipulate the application. Buttons are particularly interesting because the base class for [buttons](http://msdn.microsoft.com/en-us/library/yf1wax6c(VS.80).aspx) actually provides a ton of functionality for many different types of buttons. From this one class, you can get push buttons, check boxes, radio buttons, owner draw buttons (the programmer handles the rendering of these buttons), etc.
+MFC has tools for many different types of controls, from buttons to dialogs, windows, and menus. MFC allows the user to create the button, override some basic functionality, provide message callbacks and otherwise manipulate the application. Buttons are particularly interesting because the base class for [buttons](<http://msdn.microsoft.com/en-us/library/yf1wax6c(VS.80).aspx>) actually provides a ton of functionality for many different types of buttons. From this one class, you can get push buttons, check boxes, radio buttons, owner draw buttons (the programmer handles the rendering of these buttons), etc.
 
-<figure aria-describedby="caption-attachment-172" class="wp-caption alignright" id="attachment_172" style="width: 240px">[![A Group of Radio Buttons](https://i0.wp.com/zacharyc.com/wp-content/uploads/2008/09/radiobuttons.png?resize=240%2C105&ssl=1 "Radio Buttons")](https://i0.wp.com/zacharyc.com/wp-content/uploads/2008/09/radiobuttons.png?ssl=1)<figcaption class="wp-caption-text" id="caption-attachment-172">A Group of Radio Buttons</figcaption></figure>
+<figure aria-describedby="caption-attachment-172" class="wp-caption alignright" id="attachment_172" style="width: 240px">[![A Group of Radio Buttons](/assets/img/2008/09/radiobuttons.png?resize=240%2C105&ssl=1 "Radio Buttons")](/assets/img/2008/09/radiobuttons.png?ssl=1)<figcaption class="wp-caption-text" id="caption-attachment-172">A Group of Radio Buttons</figcaption></figure>
 
 I have several problems with this class design, but today I just want to talk about my gripe with Radio Buttons. The term [radio button](http://en.wikipedia.org/wiki/Radio_button) comes from the buttons on old car radios, where only one button could be pushed at any one time. Radio buttons on a computer form, are by definition grouped with other radio buttons so that only one in the group can be selected at any one time. Any time a user selects another button in the group, the previously selected button should become unselected.
 

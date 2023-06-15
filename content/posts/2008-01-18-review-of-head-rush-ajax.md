@@ -1,19 +1,19 @@
 ---
 id: 46
-title: 'Review of Head Rush AJAX'
-date: '2008-01-18T16:03:56-05:00'
+title: "Review of Head Rush AJAX"
+date: "2008-01-18T16:03:56-05:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/2008/01/18/review-of-head-rush-ajax/'
+guid: "https://zacharyc.com/2008/01/18/review-of-head-rush-ajax/"
 permalink: /2008/01/18/review-of-head-rush-ajax/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Programming
-    - Technology
+  - Programming
+  - Technology
 ---
 
-[![Head Rush AJAX](https://i0.wp.com/zacharyc.com/wp-content/uploads/2008/01/head_rush.thumbnail.jpg?w=1100&ssl=1)](https://zacharyc.com/?attachment_id=45 "Head Rush AJAX")
+[![Head Rush AJAX](/assets/img/2008/01/head_rush.thumbnail.jpg?w=1100&ssl=1)](https://zacharyc.com/?attachment_id=45 "Head Rush AJAX")
 
 I recently finished reading [Head Rush AJAX](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FHead-Rush-Ajax-First%2Fdp%2F0596102259%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1200668319%26sr%3D8-1&tag=zacharycohen-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=zacharycohen-20&l=ur2&o=1) and would like to share my comments on the book.
 

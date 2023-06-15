@@ -1,18 +1,18 @@
 ---
 id: 680
-title: 'Father Thomas Martin'
-date: '2009-08-05T20:57:41-04:00'
+title: "Father Thomas Martin"
+date: "2009-08-05T20:57:41-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=680'
+guid: "https://zacharyc.com/?p=680"
 permalink: /2009/08/05/father-thomas-martin/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Personal
+  - Personal
 ---
 
-[![ThomasMartin](https://i0.wp.com/zacharyc.com/wp-content/uploads/2009/08/thomasmartin.jpg?resize=150%2C188&ssl=1 "ThomasMartin")](https://i0.wp.com/zacharyc.com/wp-content/uploads/2009/08/thomasmartin.jpg?ssl=1)I found out the other week that one of my many mentors throughout school has passed away. [Father Thomas Martin O.S.A.](http://www.midwestaugustinians.org/death/newsmartin.html) was one of my college professors, who in my senior year, severely (in a positive way) changed my appreciation of the Catholic church.
+[![ThomasMartin](/assets/img/2009/08/thomasmartin.jpg?resize=150%2C188&ssl=1 "ThomasMartin")](/assets/img/2009/08/thomasmartin.jpg?ssl=1)I found out the other week that one of my many mentors throughout school has passed away. [Father Thomas Martin O.S.A.](http://www.midwestaugustinians.org/death/newsmartin.html) was one of my college professors, who in my senior year, severely (in a positive way) changed my appreciation of the Catholic church.
 
 I chose to go to Villanova because of their strong academic and athletics program. I knew I wanted to cheer in college, and I knew that I wanted to be successful academically. It was important for me that the school I choose have both a strong academic program and also a strong sports program to pursue both of my interests. The one downside I saw to Villanova was that it was Catholic. I, my friends, am quite Jewish. I was apprehensive to say the least. I was afraid of the religious classes I had to take.
 

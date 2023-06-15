@@ -1,10 +1,10 @@
 ---
 id: 1829
-title: 'Portland, OR'
-date: '2019-03-07T18:48:31-05:00'
+title: "Portland, OR"
+date: "2019-03-07T18:48:31-05:00"
 author: zacharyc
 layout: page
-guid: 'https://zacharyc.com/?page_id=1829'
+guid: "https://zacharyc.com/?page_id=1829"
 ---
 
 **Update:** This page needs to be updated. I just visited Portland and many of the places I loved closed down due to covid. Coava is still there, but hold tight, I’ll update with some new recommendations in a few.
@@ -15,8 +15,10 @@ Portland is probably my favorite city to visit. I usually travel there by drivin
 
 ## Coffee: Coava
 
-<figure class="wp-block-image">![](https://i1.wp.com/www.zacharyc.com/wp-content/uploads/2019/03/coava_coffee_grand.jpg?fit=1024%2C683)<figcaption>Coava on Grand  
-</figcaption></figure>Portland is a coffee city. While there are a ton of options, my favorite by far is [Coava](https://coavacoffee.com). They are a local Portland company, and their espresso is so good I’ve had dreams about it. There are several locations in Portland and I believe I’ve been to three of them. My favorite is the one pictured above (photo from their press kit), and is called Coava on Grand. The public roastery on SE. Main does NOT serve their espresso and so I would not return to this one.
+![](/assets/img/2019/03/coava_coffee_grand.jpg?fit=1024%2C683)
+Coava on Grand
+
+Portland is a coffee city. While there are a ton of options, my favorite by far is [Coava](https://coavacoffee.com). They are a local Portland company, and their espresso is so good I’ve had dreams about it. There are several locations in Portland and I believe I’ve been to three of them. My favorite is the one pictured above (photo from their press kit), and is called Coava on Grand. The public roastery on SE. Main does NOT serve their espresso and so I would not return to this one.
 
 I whole heartedly recommend their espresso. They are the most consistently tasty espresso I’ve had anywhere. Many people like their honey latte, but I felt it was slightly too sweet. Their pastries are amazing, if they have a chocolate scone, GET IT. If I’m in town I will usually go twice a day.
 
@@ -24,7 +26,7 @@ I whole heartedly recommend their espresso. They are the most consistently tasty
 
 ### Planet Granite Portland
 
-*Full Disclosure: I’m an employee of Planet Granite, but I visited this place before I became an employee.*
+_Full Disclosure: I’m an employee of Planet Granite, but I visited this place before I became an employee._
 
 Planet Granite Portland is their newest gym as of this writing. The first PG to use Waltopia walls and the last one to built before the merger with Earth Treks. Other than the walls looking different, this feels very much like a PG facility. I’ve participated in their Battle for the Bolts as well as used their facility for showering several of the times I’ve been up in the area. Great staff, great walls, good sets, worth bringing some climbing shoes on your trip.
 
