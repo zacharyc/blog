@@ -13,4 +13,4 @@ categories:
 format: image
 ---
 
-[![Camels](/assets/img/2010/10/Bahrain-Spencer.jpg?resize=500%2C353&ssl=1 "Bahrain-Spencer")](/assets/img/2010/10/bahrain-spencer.jpg?ssl=1)
+[![Camels](/assets/img/2010/10/bahrain-spencer.jpg?resize=500%2C353&ssl=1 "Bahrain-Spencer")](/assets/img/2010/10/bahrain-spencer.jpg?ssl=1)

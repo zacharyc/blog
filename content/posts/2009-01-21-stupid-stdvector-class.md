@@ -1,15 +1,15 @@
 ---
 id: 459
-title: 'Stupid std::vector Class'
-date: '2009-01-21T17:44:25-05:00'
+title: "Stupid std::vector Class"
+date: "2009-01-21T17:44:25-05:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=459'
+guid: "https://zacharyc.com/?p=459"
 permalink: /2009/01/21/stupid-stdvector-class/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - C/C++
+  - C/C++
 ---
 
 The Standard Template Library in C++ is nice to provide us with a bunch of different container classes so we don’t have to re-invent the wheel every time we write new code. One of the classes is called “Vector”, if you aren’t familiar with it, you might not get too much out of this post. But basically, it is a dynamically growing array. Meaning it has contiguous memory and can be indexed like a regular array. It’s a great class and I use it all over the place, but for the second time in one week I find it lacking.
@@ -17,7 +17,6 @@ The Standard Template Library in C++ is nice to provide us with a bunch of diffe
 I’m working on some code where I have two vectors of the same type. I want to concatenate one on the end of the other.
 
 ```
-
   std::vector firstVector;
   std::vector secondVector;
 
@@ -28,7 +27,6 @@ I’m working on some code where I have two vectors of the same type. I want to 
 This doesn’t work. There is no append method for std::vector. It turns out that the correct code for this is:
 
 ```
-
   std::vector firstVector;
   std::vector secondVector;
 

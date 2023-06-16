@@ -43,7 +43,6 @@ Now, Things is still in a beta stage, and the author claims that they will be re
 
 Here’s a rundown of what I like about Things:
 
-```
 <ul>
     <li>Very professional looking application. Okay, yes I'll admit it, looks are only skin deep, but when it comes to working with an app, if it is pretty look at, you will look at it more, therefore I feel that aesthetics can count for something here.</li>
     <li>The cost is lower than OmniFocus. Saving money is always a good thing.</li>
@@ -51,8 +50,6 @@ Here’s a rundown of what I like about Things:
     <li>It allows you tag your items. This is both a positive and a negative for me. It allows me to put tags with an item that I think belong in different projects and then find them together, but the downside is, Tags replace the notion of context in OmniFocus. I think these are two different items, tags relate to the type of app, but I feel like context relates to where/how the task should be completed. By handling both of these with items with tags its not always clear how to differentiate which tags belong to which.</li>
     <li>The Focus section allows you to clearly see what you have to do and what you can do. The whole goal of GTD is to make it easy to see what you should be doing next. This focus section does exactly that.</li>
 </ul>
-
-```
 
 Despite all these good features (and the one issue with tags that I have already mentioned), there are several other issues that I have with the application:
 

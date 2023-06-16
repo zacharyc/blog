@@ -1,17 +1,17 @@
 ---
 id: 188
-title: 'What&#8217;s So Special About Cheerleading?'
-date: '2008-11-25T13:18:42-05:00'
+title: "What's So Special About Cheerleading?"
+date: "2008-11-25T13:18:42-05:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=188'
+guid: "https://zacharyc.com/?p=188"
 permalink: /2008/11/25/whats-so-special-about-cheerleading/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Cheerleading
+  - Cheerleading
 tags:
-    - coaching
+  - coaching
 ---
 
 I was driving my friend Mike home from a bike ride, when he asked me if I thought that I had learned anything unique from cheerleading. Whether that sport in and of itself was unique enough that I felt I had learned things that I might not have learned from a different sport. This is a really great question. Now, I chose cheerleading because it captured my interest with the gymnastics and throwing people around, not to mention the great seats for football and basketball games, but I do feel I have taken some unique things from the sport that might be hard to find in total in any other sport. I think some of the things I’m about to mention can be achieved in other sports, but I don’t think the combination of all of them really exist.

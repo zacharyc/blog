@@ -1,27 +1,25 @@
 ---
 id: 59
-title: 'Nuances in C: Struct Assignment in C'
-date: '2008-03-13T16:09:00-04:00'
+title: "Nuances in C: Struct Assignment in C"
+date: "2008-03-13T16:09:00-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/2008/03/13/nuances-in-c-struct-assignment-in-c/'
+guid: "https://zacharyc.com/2008/03/13/nuances-in-c-struct-assignment-in-c/"
 permalink: /2008/03/13/nuances-in-c-struct-assignment-in-c/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - C/C++
-    - Programming
+  - C/C++
+  - Programming
 tags:
-    - Structs
+  - Structs
 ---
 
 When I started this post, it was going to be a revolutionary post, talking about something that was really bothering me. As I have spent more time thinking about this, the answer seems so simple and obvious, still there was a time where I did not get this concept, so I here is a brief post on the topic,
 
-The question is, in straight C, will this work:  
-``
+The question is, in straight C, will this work:
 
-```
-
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -47,8 +45,7 @@ In C++ this works no problem. Structs are teated like classes where all members 
 
 Well, like I said the answer is the obvious one, IT WORKS! The reason this originally confused me was because you **CAN’T** do this:
 
-```
-
+```c
    int a[4] = { 1, 2, 3, 4};
    int b[4];
 

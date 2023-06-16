@@ -1,15 +1,15 @@
 ---
 id: 19
-title: 'What is the silliest thing you&#8217;ve done tired?'
-date: '2007-09-25T12:55:06-04:00'
+title: "What is the silliest thing you've done tired?"
+date: "2007-09-25T12:55:06-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=19'
+guid: "https://zacharyc.com/?p=19"
 permalink: /2007/09/25/what-is-the-silliest-thing-youve-done-tired/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - General
+  - General
 ---
 
 I could get started on some of the most interesting things I’ve done when I was tired (like talking to a telephone poll) but I would like to share a quick story. A friend of mine and I were taking the subway the other evening when she walked right into the turnstile and it did not turn. She looked down at the darn thing wondering why it blocked her entrance. After a few seconds of puzzlement she realized that she had forgot to swipe her metrocard.

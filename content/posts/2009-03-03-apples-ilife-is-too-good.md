@@ -1,18 +1,18 @@
 ---
 id: 521
-title: 'Apple&#8217;s iLife is TOO Good'
-date: '2009-03-03T21:22:16-05:00'
+title: "Apple's iLife is TOO Good"
+date: "2009-03-03T21:22:16-05:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=521'
+guid: "https://zacharyc.com/?p=521"
 permalink: /2009/03/03/apples-ilife-is-too-good/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Technology
-    - Usability
+  - Technology
+  - Usability
 tags:
-    - Apple
+  - Apple
 ---
 
 In an amazing post on [Daring Fireball](http://daringfireball.net/linked/2009/03/03/ilife-education) John Gruber quotes the technology directory for a public school in Massachusetts:

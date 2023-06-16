@@ -1,15 +1,15 @@
 ---
 id: 502
-title: 'C++ Coding Standard: The If Block'
-date: '2009-03-10T15:15:44-04:00'
+title: "C++ Coding Standard: The If Block"
+date: "2009-03-10T15:15:44-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=502'
+guid: "https://zacharyc.com/?p=502"
 permalink: /2009/03/10/c-coding-standard-the-if-block/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - C/C++
+  - C/C++
 ---
 
 Almost two months ago I went to a [CocoaHeads](http://cocoaheads.org/us/SiliconValleyCalifornia/index.html) meeting during Macworld. They had [Mike Lee](http://www.atomicwang.org/motherfucker/Index/Index.html) talk. His presentation was about “Pimping Your App”. There were a bunch of interesting points, but one thing really stuck in my head. Mike was talking about how is a messy person in his life. His car is messy. His room is messy. His desk is messy. Everything is messy, except his code. HIs code is crystal clean, squeaky even. As a programmer you need to make sure your code is consistent and clean. Ever since I have been thinking about standardizing the way I write code. This is the first post in hopefully a stream of posts about quality code.
@@ -17,7 +17,6 @@ Almost two months ago I went to a [CocoaHeads](http://cocoaheads.org/us/SiliconV
 Yesterday, there was a discussion in the office about code quality. There were many points discussed, topics like line length, white space, and my personal favorite “if” statements. I have a track record of being incredibly inconsistent with my “if” block. The basic if block is the following:
 
 ```
-
 if(foo) {
   //...
 }
@@ -30,7 +29,6 @@ The “if” statement by itself is really not that big of a deal. It’s when y
 I sometimes use the following style of the if statement:
 
 ```
-
 if( foo ) {
    //...
 } else if( bar ) {
@@ -47,8 +45,7 @@ This block is very condensed. You throw the braces for each clause on it’s own
 This one is a take on the Condensed If block. It is actually just really poorly formatted “if” statements, but I often find myself using this one:
 
 ```
-
-if( foo ) 
+if( foo )
 {
    //...
 } else if( bar ) {
@@ -67,7 +64,6 @@ The downside of this approach is that it looks inconsistent. Why does the initia
 This one has more white space:
 
 ```
-
 if( foo ) {
    //...
 }
@@ -86,8 +82,7 @@ This approach has gives you a little bit more separation of the control statemen
 The following block is the last if style I’m going to talk about:
 
 ```
-
-if( foo ) 
+if( foo )
 {
    //...
 }
@@ -95,7 +90,7 @@ else if( bar )
 {
    //...
 }
-else 
+else
 {
    //...
 }
@@ -108,7 +103,6 @@ This block takes up a very large amount of space, everything gets its own line. 
 There are a couple of additional concerns when working with if blocks. For example, if you are chaining “if” blocks, how much space should you provide.
 
 ```
-
 // What I don't like
 if(foo)
 {
@@ -136,7 +130,6 @@ I have run into some people who prefer the first option above with no space betw
 Another concern is the ternary operator. This operator is basically a simple “if/else” block which fits on one line.
 
 ```
-
 double number;
 if(foo)
     number = 3.1415;

@@ -1,16 +1,16 @@
 ---
 id: 106
-title: 'Mint.com it&#8217;s awesome, check it out'
-date: '2008-08-08T18:43:30-04:00'
+title: "Mint.com it's awesome, check it out"
+date: "2008-08-08T18:43:30-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=106'
+guid: "https://zacharyc.com/?p=106"
 permalink: /2008/08/08/mintcom-its-awesome-check-it-out/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - General
-    - Usability
+  - General
+  - Usability
 ---
 
 [Mint.com](http://www.mint.com) is a financial site that allows you to log into one system to see all of your finances. Basically, it is as if you were able to take all your separate accounts and move them to one bank view. It’s really quite interesting, and I”m excited about getting on top of all my finances on a daily basis.

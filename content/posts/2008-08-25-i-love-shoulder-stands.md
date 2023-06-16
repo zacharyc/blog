@@ -12,7 +12,7 @@ categories:
   - Cheerleading
 ---
 
-<figure aria-describedby="caption-attachment-118" class="wp-caption alignright" id="attachment_118" style="width: 260px">[![There are two shoulder stands in this stunt](/assets/img/2008/08/shoulderstands.jpg?resize=260%2C300&ssl=1 "Swedish Falls")](/assets/img/2008/08/shoulderstands.jpg?ssl=1)<figcaption class="wp-caption-text" id="caption-attachment-118">There are two shoulder stands in this stunt</figcaption></figure>
+![There are two shoulder stands in this stunt](/assets/img/2008/08/shoulderstands.jpg?resize=260%2C300&ssl=1 "Swedish Falls")
 
 Today I got slammed back into doing shoulder stands at [CheerGym’s](http://www.cheergyms.com) practice. This is a relatively simple stunt where you take a girl throw her up in the air and catch her on your shoulders. I got to do this with my good friend Chaz, and while it didn’t really hurt, I do have some marks on my shoulders from all of her foot prints.
 

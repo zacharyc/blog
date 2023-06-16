@@ -1,15 +1,15 @@
 ---
 id: 15
-title: 'Best feeling as a coach&#8230;'
-date: '2007-08-28T11:21:48-04:00'
+title: "Best feeling as a coach"
+date: "2007-08-28T11:21:48-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=15'
+guid: "https://zacharyc.com/?p=15"
 permalink: /2007/08/28/best-feeling-as-a-coach/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Cheerleading
+  - Cheerleading
 ---
 
 The best feeling as a coach is when one of your students has a great day. Yesterday evening was one of those days, and it means enough for me to be slightly late to work in order to write about it. There are three major components in cheerleading for a guy, throwing people around, throwing ourselves around, and yelling. Yesterday was a very strong day for our guys, to be called Big and Little.

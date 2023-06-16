@@ -1,15 +1,15 @@
 ---
 id: 365
-title: 'California&#8217;s Proposition 8'
-date: '2008-11-06T00:03:25-05:00'
+title: "California's Proposition 8"
+date: "2008-11-06T00:03:25-05:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=365'
+guid: "https://zacharyc.com/?p=365"
 permalink: /2008/11/06/californias-proposition-8/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Personal
+  - Personal
 ---
 
 As most of you know, Obama will be our next president. I’m quite happy about this because I’m looking forward to change. I don’t like the way things are at the moment, so change will probably be for the better (hopefully).

@@ -1,6 +1,6 @@
 ---
 id: 171
-title: "MFC&#8217;s Radio Button Hack"
+title: "MFC's Radio Button Hack"
 date: "2008-09-04T16:15:51-04:00"
 author: zacharyzacharyccom
 layout: post

@@ -1,17 +1,17 @@
 ---
 id: 1686
-title: 'Quality Design and Computer Programming'
-date: '2007-08-16T07:44:00-04:00'
+title: "Quality Design and Computer Programming"
+date: "2007-08-16T07:44:00-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=11'
+guid: "https://zacharyc.com/?p=11"
 permalink: /2007/08/16/quality-design-and-computer-programming/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 original_post_id:
-    - '11'
+  - "11"
 categories:
-    - Technology
+  - Technology
 ---
 
 Recently a friend and I had a conversation about the quality of programmers in the workplace. Without delving too deeply into the specifics (so as not to get anyone in trouble), we discussed various metrics for measuring programmers and how they perform. That conversation, along with a recent talk I heard about quality of code, leads to the conclusion that as systems get more and more complex in our society, quality of code, effected by the quality of programmers, will become a serious matter.
@@ -20,7 +20,7 @@ Firstly, lets talk about the breadth of programmers in this world. Programmers a
 
 The conversation arose around some code like the following:
 
-``
+```c
 
 if(state.to\_upper() == "AL")
 
@@ -31,9 +31,7 @@ elsif(state.to\_upper() == "AK")
  print "Alaska";
 
 .
-
 .
-
 .
 
 elsif(state.to\_upper() == "WY")
@@ -43,6 +41,7 @@ elsif(state.to\_upper() == "WY")
 else
 
  print "Unknown State";
+```
 
 What are your thoughts on this code? Is it efficient? Would we consider this good code?
 

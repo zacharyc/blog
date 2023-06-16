@@ -1,15 +1,15 @@
 ---
 id: 407
-title: 'Spencer&#8217;s Graduation From The Marines'
-date: '2008-12-08T20:17:37-05:00'
+title: "Spencer's Graduation From The Marines"
+date: "2008-12-08T20:17:37-05:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=407'
+guid: "https://zacharyc.com/?p=407"
 permalink: /2008/12/08/spencers-graduation-from-the-marines/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - Personal
+  - Personal
 ---
 
 My littlest brother, Spencer, graduated from the Marines boot camp on November 21st, 2008 in Parris Island, SC. I moved to California before he enlisted, and got to spend about a month in CT during the summer at home so I could spend more time with him. I left for California about the same time he shipped out. I hadn’t seen him since August.
@@ -20,7 +20,7 @@ I feel I need to clarify. My family is pretty close. We moved around a lot as ki
 
 When he decided that he wanted to join the Marines, the entire family mobilized against it. With our country in the political situation we are currently in, it seemed overly dangerous for him to join. He was 18 years old, hadn’t been to college, and was overly eager to get involved with war. No one in the family supported him. His recruiters were pouring it on strong. Telling him that enlisting was the best way and that you shouldn’t listen to your family and that he should just sign the papers. They threatened that he wouldn’t be able to get infantry if he waited.
 
-The recruiters were lying to him, and both my father and I proved it to him. We sat down with them and took them apart, from the beginning. One of the senior officers broke down from rational conversation and just insisted that he join when he couldn’t produce ***ANY*** numerical statistics to prove his outrageous claims. Continually asserting that it wasn’t the family’s choice, it was his, just go ahead and make it. Despite the consistent pressure on both sides, Spencer made time to hear everyone. He called the people I asked him to, drove all the way up to New Haven by himself to meet one of my friend who was a former Marine. He listened to everyone before he made his decision to join.
+The recruiters were lying to him, and both my father and I proved it to him. We sat down with them and took them apart, from the beginning. One of the senior officers broke down from rational conversation and just insisted that he join when he couldn’t produce **_ANY_** numerical statistics to prove his outrageous claims. Continually asserting that it wasn’t the family’s choice, it was his, just go ahead and make it. Despite the consistent pressure on both sides, Spencer made time to hear everyone. He called the people I asked him to, drove all the way up to New Haven by himself to meet one of my friend who was a former Marine. He listened to everyone before he made his decision to join.
 
 Despite the fact that I’m not behind his choice, I do appreciate that he took the time to listen to all of our thoughts before he signed up.
 

@@ -1,6 +1,6 @@
 ---
 id: 572
-title: "Facebook Is Losing It&#8217;s Fun"
+title: "Facebook Is Losing It's Fun"
 date: "2009-04-03T17:04:07-04:00"
 author: zacharyzacharyccom
 layout: post

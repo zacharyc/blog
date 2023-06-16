@@ -1,17 +1,17 @@
 ---
 id: 71
-title: 'Why I don&#8217;t write more posts'
-date: '2008-06-10T15:15:37-04:00'
+title: "Why I don't write more posts"
+date: "2008-06-10T15:15:37-04:00"
 author: zacharyzacharyccom
 layout: post
-guid: 'https://zacharyc.com/?p=71'
+guid: "https://zacharyc.com/?p=71"
 permalink: /2008/06/10/why-i-dont-write-more-posts/
 restapi_import_id:
-    - 5b3546f08dfe0
+  - 5b3546f08dfe0
 categories:
-    - General
-    - Photo
-    - Usability
+  - General
+  - Photo
+  - Usability
 ---
 
 I often have ideas for good blog posts, but never get around to actually writing them. There are several reasons for this, but one stands above the rest. I hate large bodies of text. I hate reading them, and therefore I hate writing them for other people to read them.
