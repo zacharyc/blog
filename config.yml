@@ -32,9 +32,12 @@ languages:
         - name: About
           url: about
           weight: 4
+        - name: Projects
+          url: projects
+          weight: 5
         - name: Archive
           url: archives
-          weight: 5
+          weight: 6
         - name: Search
           url: search/
           weight: 10
