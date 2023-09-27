@@ -2,6 +2,7 @@
 title: "Naming Things"
 date: 2023-09-27T17:43:53-04:00
 draft: false
+tags: ["book"]
 ---
 
 The book [Naming Things](https://www.namingthings.co) is a book about one of the hardest problems in software engineering, the art of naming variables, classes, methods and functions. This book was recommended on another resource that I'm unable to remember.
