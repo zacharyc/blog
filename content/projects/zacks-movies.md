@@ -1,10 +1,10 @@
 ---
 id: 1958
-title: 'Zack&#8217;s Movies'
-date: '2020-01-09T02:22:04-05:00'
+title: "Zack's Movies"
+date: "2020-01-09T02:22:04-05:00"
 author: zacharyc
 layout: page
-guid: 'https://zacharyc.com/?page_id=1958'
+guid: "https://zacharyc.com/?page_id=1958"
 ---
 
 I watch a lot of movies and I have a penchant for older movies. I feel like it is worth it to pass on some my favorite movies from years past.
