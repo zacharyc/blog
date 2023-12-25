@@ -1,0 +1,12 @@
+.christmas h1,
+.christmas h2,
+.christmas h3,
+.christmas h4,
+.christmas h5,
+.christmas h6 {
+  color: hsl(0, 69%, 35%);
+}
+
+p {
+  color: hsl(140, 75%, 25%);
+}
