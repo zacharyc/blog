@@ -1,5 +1,5 @@
 ---
-title: "2024 02 07 Learning Clojure"
+title: "Learning Clojure"
 date: 2024-02-07T19:00:26-05:00
 draft: false
 tags: ["programming"]
