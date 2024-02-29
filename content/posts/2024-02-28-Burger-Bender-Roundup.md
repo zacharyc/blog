@@ -210,7 +210,9 @@ I stand behind these ratings. The only two I wouldn't do again are 41 North and 
 According to Discover Newport, here are the official ratings (including burgers I didn't try)
 
 Beef Category Winner: 22 Bowen's - French Onion Burger
+{{< line_break >}}
 Best Non-Beef: The Boat House - The Hawaiian Tuna Burger
+{{< line_break >}}
 Best Plant-Based: Sprout and Lentil - Yo’Spicy Bulgogi Burger
 
 They also offered the following superlatives:
@@ -227,6 +229,7 @@ They also offered the following superlatives:
 I'm afraid I have to disagree with the choice of the Boathouse over Yagi for the non-beef option. I reached out to Discover Newport and received the following voting statistics:
 
 The Boat House: 134 votes with 339 Burgers Sold
+{{< line_break >}}
 Yagi Noodle: 66 votes with 120 Burgers Sold
 
 Interestingly, 55% of the people who ordered the Yagi Burger voted for it, and about 39% of those who ordered The Boat House burger voted for it. As someone who had both, I can tell you the staff at The Boat House were very aggressive in convincing people to vote for it. I was asked to vote for it as I ordered it, when it showed up, when it was taken away, and when I was given the check. People arguing that the clients at The Boat House are older and, therefore, less likely to vote for it might have a point. The amount of pressure from the staff should be considered an offset. Also, the wait time for a burger at The Boat House was 40ish minutes, so people had plenty of time to vote while waiting for food.
@@ -246,3 +249,14 @@ Here are the rules I wish Discover Newport would use for future Burger Benders:
 While this post contains a lot of complaints, this was an enjoyable week of trying new things. I enjoyed. I got to eat out with many friends and was also grateful for that.
 
 While I wish Discover Newport would make the changes above, I'll probably partake in it again in future years. I might pick my top 6 burgers instead of trying to do a whole 10.
+
+## Update from an anonymous source
+
+A friend read my post and advised that I break down judging for future years into four categories:
+
+1. Buns - which are usually store-bought but need to compliment the burger and fit the style.
+2. Meat - should be juicy and seasoned well. Cooked to at least medium.
+3. Sauce and Top - this category includes cheese, bacon, sauces, and veggies.
+4. Side - pairing the burger with an appropriate side, usually fries.
+
+My notes for this past year could have fit this better. I will make sure to break it down better next time through.
