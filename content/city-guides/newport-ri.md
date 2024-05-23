@@ -1,17 +1,17 @@
 ---
 id: 1844
-title: 'Newport, RI'
-date: '2020-09-16T16:18:38-04:00'
+title: "Newport, RI"
+date: "2020-09-16T16:18:38-04:00"
 author: zacharyc
 layout: page
-guid: 'https://zacharyc.com/?page_id=1844'
+guid: "https://zacharyc.com/?page_id=1844"
 ---
 
 [Newport](https://www.google.com/maps/place/Newport,+RI/@41.4860822,-71.3596891,13z/data=!3m1!4b1!4m5!3m4!1s0x89e5bab70509976b:0xce5e96f72c2f6f21!8m2!3d41.4901024!4d-71.3128285) is either my second or third home, depending on how you count it. I was first introduced to the city by my parents when I was 15 years old. We were moving to Kentucky as a family and the summer before the move, we spent it as a family on a 45-foot Freedom yacht docked at Goat Island in Newport. Since then I have spent countless nights on Aquidneck Island (the Island where Newport is located).
 
 More than the amount of time it is the quality of time. Newport is one of my favorite towns. It’s on the east coast, so it has some speed to it, but it has enough sailing and leisure to have some laid-back qualities as well.
 
-**Amount of time spent:** Way too much over the years. Like home.
+**Amount of time spent:** Way too much over the years. New home.
 
 <figure><iframe height="480" loading="lazy" src="https://www.google.com/maps/d/u/0/embed?mid=16Ny3osjF3JCEJkhZ0sEvl8vrDMGP5llp" width="800"></iframe></figure>## Coffee
 
@@ -47,7 +47,7 @@ Update: MOVED!
 
 Coffee Grinder has moved down to the building across from the Red Parrot. I haven’t been but I’m excited to check it out this summer.
 
-### [Lorusso’s Newport Cafe](https://www.yelp.com/biz/lorussos-newport-newport-4) 
+### [Lorusso’s Newport Cafe](https://www.yelp.com/biz/lorussos-newport-newport-4)
 
 **Update: Closed (so sad, loved the muffins)**
 
@@ -58,6 +58,12 @@ Coffee Grinder has moved down to the building across from the Red Parrot. I have
 ### [Sail Newport](https://sailnewport.org)
 
 This is the public sailing center in Newport. This town has long been famous for the amount of sailing that goes on here. This is the best place to learn sailing. They have a fleet of J22’s that you can learn on and then rent after to go out whenever you want. Becoming a member is about 100 dollars a year and totally worth it if you go more than three times in a summer.
+
+### The Cliff Walk
+
+This is a walk around the Cliffs around Newport. It starts just north of Eastons (first) Beach, and walks along the coast for about 7 miles. The first part is a paved path and pretty easy to walk. Dogs welcome. Part of it is currently under repair, but still worth doing. You get to see many different mansions. It ends at Rejects Beach, a gorgeous spot.
+
+It is not a loop so you need to figure out if you are going out and back or walking back on Bellview.
 
 ### Beaches
 
