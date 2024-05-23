@@ -10,3 +10,5 @@ I'm grateful for the opportunities I've had to travel around this country and wo
 [Portland, OR]({{< ref "/city-guides/portland" >}})
 
 [Newport, RI]({{< ref "/city-guides/newport-ri" >}})
+
+[Westport, CT]({{< ref "/city-guides/westport-ct" >}})
