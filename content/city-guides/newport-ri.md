@@ -124,3 +124,17 @@ I’ve gotten my order down to the science that I like. I get the Bacon Cheesebu
 ### Brick Ally Pub
 
 This is a local staple. It has been here since I was a kid and while the food is standard pub food, it is good for standard pub food. I’ve had many GREAT memories here.
+
+## Where to Work Out
+
+### Newport County YMCA
+
+The Newport County YMCA is actually located in Middletown. Their gym just went through a new refresh so the equipment is brand new, but because of this it is also a little more packed than some of the other gyms in the area. There are many great programs here.
+
+### Fitness 500
+
+Located behind A Market off Bellevue Ave, this gym is also new. It isn't as full serviced as the Y, as it doesn not have a pool, but the equpiment is new and it is very nice. The prices are right.
+
+### Pulse Gym
+
+This is another cool gym in the area, they have pulse specific classes but it is also a cool and unique space.
