@@ -1,10 +1,10 @@
 ---
 id: 2366
-title: 'Pete&#8217;s Pirate Life Treasure List'
-date: '2021-07-13T14:36:45-04:00'
+title: "Pete's Pirate Life Treasure List"
+date: "2021-07-13T14:36:45-04:00"
 author: zacharyc
 layout: page
-guid: 'https://zacharyc.com/?page_id=2366'
+guid: "https://zacharyc.com/?page_id=2366"
 image: /wp-content/uploads/2021/07/186884665_768449560528241_410049203508408936_n-640x430.jpg
 ---
 
