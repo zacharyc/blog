@@ -20,3 +20,9 @@ This website contains information about me and my interests. Blog posts will ran
 Most posts are relatively brief, but every once in a while I'll dive into a topic. I also have a list of my [projects](/projects).
 
 I will be updating the content of this site as regularly as I can.
+
+{{% rawhtml %}}
+
+<a href="https://www.github.com/zacharyc/"><i class="fa-brands fa-github fa-lg"></i></a>
+
+{{% /rawhtml %}}
