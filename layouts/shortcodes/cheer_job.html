@@ -1,0 +1,12 @@
+
+<h3>{{ .Get "org" }}</h3>
+
+<div class="location">
+    {{ .Get "location"}}
+</div>
+
+<span class="dates">
+    <span class="start-date">{{ .Get "start" }}</span> - <span class="end-date">{{ .Get "end" }}</span>
+</span>
+
+{{ .Inner }}
