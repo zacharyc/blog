@@ -8,7 +8,7 @@ Experienced cheerleading coach with decades worth of coaching experience at the 
 
 ## Coaching Objectives
 
-Help educate and grow cheerleaders with in a safe manner.
+Help educate and grow cheerleaders in a safe manner.
 
 ## Coaching Experience
 
@@ -18,7 +18,9 @@ Help educate and grow cheerleaders with in a safe manner.
     start="September 2021"
     end="February 2024" %}}
 
-Led practices, games and various team events throughout my three year invovlement with the program. Worked on raising the collegiate nature of the program and reputation on and around campus.
+Led practices, games and various team events throughout my three year invovlement with the program.
+
+Drove development of the cheer program towards alignment with modern collegiate standards while simultaneously raising the team profile on campus and in town.
 
 Arranged and taught the team gymnastics at the Newport YMCA on early Tuesday mornings.
 
