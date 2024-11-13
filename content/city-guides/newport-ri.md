@@ -105,6 +105,10 @@ Asian Noodle place that is really rather special. I don’t really know how to e
 
 Another good Ramen Noodle Place. They are currently down Thames a bit but are moving very shortly to be even closer to Boru. The noodles are great and it is pretty different from a traditional ramen place but they do have a Katsudon bowl that is pretty amazing.
 
+### Mountain Moose
+
+Another ramen spot that opened this winter in Newport. It is down on Thames and I've never seen anything go into this location that has stuck. I'm hoping Mountain Moose is different. They have some very tasty options, both noodles and rice options. Their prices are incredibly reasonable for the town (with a ramen dish costing under 20 USD). I can't say enough good things about this place. The Mountain Moose Original Ramen Bowl is fantastic.
+
 ### Winner Winner
 
 <s>The BEST fried chicken in town, maybe in the whole country. Definitely my favorite spot for fried chicken. The chicken sandwich is unique and a must-try. They brine the meat for 24 hours and then double fry it. It’s spectacular. In addition, I would highly recommend the biscuits. They come with maple butter which is pretty special.</s>
