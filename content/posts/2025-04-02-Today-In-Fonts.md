@@ -2,6 +2,12 @@
 title: "Today in Fonts"
 date: 2025-04-02T16:53:37-04:00
 draft: false
+tags: ["Design", "Fonts"]
+cover:
+  image: "/assets/img/2025/03/fabio-santaniello-bruun-Y6tGu-OH8lA-unsplash.jpg"
+  alt: "Photo of letters for letterpress printing."
+  caption: ""
+  relative: false
 ---
 
 This post is about fonts. It's for you if you care about the nitty-gritty details of how letters are lined out. If not, it's probably not worth your time.
