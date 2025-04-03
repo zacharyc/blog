@@ -2,6 +2,7 @@
 title: "Web Forms Hugo Sites - Part 1"
 date: 2025-03-18T14:35:46-04:00
 draft: false
+tags: ["programming"]
 ---
 
 [The Hanukkah Coffee Box](https://www.hanukkahcoffeebox.com) was made using [Hugo](https://gohugo.io), a static site generator. This means it creates static code you then deploy to the web. There is no server-side execution part of the code base. This is fine if you want to show content, but if you want to interact with the visitor to your site and collect feedback on a great coffee box, you will need to do something a little creative.

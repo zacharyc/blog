@@ -2,6 +2,7 @@
 title: "Web Forms Hugo Sites - Part 5"
 date: 2025-04-03T16:58:22-04:00
 draft: false
+tags: ["programming"]
 ---
 
 This is the fifth post about putting dynamic forms on a static [Hugo](https://gohugo.io) site. Please see the previous steps to understand where we are:

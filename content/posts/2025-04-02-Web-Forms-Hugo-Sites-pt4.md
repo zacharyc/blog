@@ -2,6 +2,7 @@
 title: "Web Forms Hugo Sites - Part 4"
 date: 2025-04-02T16:13:50-04:00
 draft: false
+tags: ["programming"]
 ---
 
 Previous posts:

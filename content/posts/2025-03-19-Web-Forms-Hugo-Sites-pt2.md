@@ -2,6 +2,7 @@
 title: "Web Forms Hugo Sites - Part 2"
 date: 2025-03-19T18:16:36-04:00
 draft: false
+tags: ["programming"]
 ---
 
 ## Designing The Table
