@@ -1,6 +1,7 @@
 baseURL: "https://www.zacharyc.com" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: zacharyc
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -11,7 +12,6 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 # googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   # minifyOutput: true

@@ -1,0 +1,118 @@
+@font-face {
+  font-family: "MonoLisa";
+  src: url("/fonts/MonoLisa-Regular.woff2");
+}
+
+@font-face {
+  font-family: "MonoLisa Bold";
+  src: url("/fonts/MonoLisa-Bold.woff2");
+}
+
+@font-face {
+  font-family: "MonoLisa Bold Italic";
+  src: url("/fonts/MonoLisa-BoldItalic.woff2");
+}
+
+@font-face {
+  font-family: "MonoLisa Italic";
+  src: url("/fonts/MonoLisa-RegularItalic.woff2");
+}
+
+@font-face {
+  src: url("/fonts/RoslindaleDisplayCondensed-Bold.woff2") format("woff2");
+  font-family: "RoslindaleDisplayCondensed";
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url("/fonts/RoslindaleDisplayCondensed-BoldItalic.woff2") format("woff2");
+  font-family: "RoslindaleDisplayCondensed";
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  src: url("/fonts/RoslindaleText-Regular.woff2") format("woff2");
+  font-family: "RoslindaleText";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("/fonts/RoslindaleText-Italic.woff2") format("woff2");
+  font-family: "RoslindaleText";
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("/fonts/RoslindaleText-Bold.woff2") format("woff2");
+  font-family: "RoslindaleText";
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url("/fonts/RoslindaleText-BoldItalic.woff2") format("woff2");
+  font-family: "Roslindale";
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  src: url("/fonts/Cartridge-Regular.woff2") format("woff2");
+  font-family: "Cartridge";
+}
+
+@font-face {
+  src: url("/fonts/Cartridge-RegularSoft.woff2") format("woff2");
+  font-family: "CartridgeSoft";
+}
+
+@font-face {
+  src: url("/fonts/Cartridge-Regular.woff2") format("woff2");
+  font-family: "Cartridge";
+}
+
+@font-face {
+  src: url("/fonts/Cartridge-Black.woff2") format("woff2");
+  font-family: "CartridgeBlack";
+}
+
+@font-face {
+  src: url("/fonts/Cartridge-BlackSoft.woff2") format("woff2");
+  font-family: "CartridgeBlackSoft";
+}
+
+@font-face {
+  src: url("/fonts/Cartridge-Bold.woff2") format("woff2");
+  font-family: "CartridgeBold";
+}
+
+@font-face {
+  src: url("/fonts/Cartridge-BoldSoft.woff2") format("woff2");
+  font-family: "CartridgeBoldSoft";
+}
+
+@font-face {
+  src: url("/fonts/Cartridge-Light.woff2") format("woff2");
+  font-family: "CartridgeLight";
+}
+
+@font-face {
+  src: url("/fonts/Cartridge-LightSoft.woff2") format("woff2");
+  font-family: "CartridgeLightSoft";
+}
+
+@font-face {
+  src: url("/fonts/Cartridge-Semibold.woff2") format("woff2");
+  font-family: "CartridgeSemiBold";
+}
+
+@font-face {
+  src: url("/fonts/Cartridge-SemiboldSoft.woff2") format("woff2");
+  font-family: "CartridgeSemiboldSoft";
+}
+
+/* @import url("https://use.typekit.net/xse3exb.css"); */
