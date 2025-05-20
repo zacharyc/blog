@@ -33,3 +33,9 @@ body {
   font-family: "Monolisa", monospace; */
   font-family: "RoslindaleText", serif;
 }
+
+nav > .logo a {
+  font-family: "CartridgeBoldSoft", Georgia, "Times New Roman", Times, serif;
+  font-weight: 800;
+  text-transform: uppercase;
+}
