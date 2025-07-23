@@ -1,7 +1,7 @@
 ---
 title: "Hugo Partial Formatting"
 date: 2025-07-22T09:36:00-04:00
-draft: true
+draft: false
 ---
 
 I'm late to the game. Writing most of my web projects in WordPress has been a staple of my younger self. I started writing PHP in college and naturally transitioned to using WordPress for almost all of my projects. Throughout the years, these sites have been made in WordPress:
