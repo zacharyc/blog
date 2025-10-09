@@ -27,3 +27,7 @@ I’ve loved photography since I was fifteen. I really enjoy taking pictures and
 ## City Guides
 
 I travel from time to time and collect interesting places worth seeing. You can find more on my [City Guides]({{< ref "/projects-page/city-guides" >}})
+
+## Inktober
+
+I'm participating in 2025 [Inktober](https://inktober.com) challenge and posting my work [here](/pages/inktober2025.md).
