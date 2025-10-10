@@ -43,3 +43,7 @@ This is a [handlebars](https://handlebarsjs.com) mustache.
 ## #8: Reckless
 
 ![inktober 08: reckless](/pages/images/inktober/08.jpeg)
+
+## #9: Heavy
+
+![inktober 08: Heavy](/pages/images/inktober/09.jpeg)
