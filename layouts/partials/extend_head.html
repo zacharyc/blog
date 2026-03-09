@@ -1,6 +1,10 @@
 <link rel="stylesheet" href="https://use.typekit.net/jsu0mdv.css">
 <script src="https://kit.fontawesome.com/2fc4606ccd.js" crossorigin="anonymous"></script>
 
+<!-- Dropdown menu JS -->
+{{ $dropdown := resources.Get "js/dropdown.js" | minify }}
+<script src="{{ $dropdown.Permalink }}" defer></script>
+
 <!-- Privacy-friendly analytics by Plausible -->
 <script async src="https://plausible.io/js/pa-uKjlYhg_OmxjYq3vXRmoB.js"></script>
 <script>
