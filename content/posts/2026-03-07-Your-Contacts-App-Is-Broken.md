@@ -2,6 +2,7 @@
 title: "Your Contacts App Is Broken"
 date: 2026-03-07T19:47:08-07:00
 draft: false
+tags: ["contacts", "apple", "programming", "projects"]
 ---
 
 **And it was never that good to begin with.**
