@@ -12,4 +12,4 @@ tags:
 
 Have you ever been using your iPhone, in the middle of sending a text message to a friend when you realize it would just be easier to call them and talk it out? With the current interface you have to leave the SMS application, navigate to your contacts using either Phone or Contacts, find the number and tap it. Not the end of the world if only happened rarely, but I find myself going through this pain quite often.
 
-It would be really great if we could find a way to make the call from the text message. I’ll leave the exact design and implimentation up to the people at Apple, but this feature would totally improve my testing experiences.
+It would be really great if we could find a way to make the call from the text message. I’ll leave the exact design and implementation up to the people at Apple, but this feature would totally improve my testing experiences.
