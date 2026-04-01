@@ -1,5 +1,5 @@
 ---
-title: "Snowboarding in Taheo"
+title: "Snowboarding in Tahoe"
 date: "2008-03-12T15:25:06-04:00"
 url: /2008/03/12/snowboarding-in-taheo/
 categories:
