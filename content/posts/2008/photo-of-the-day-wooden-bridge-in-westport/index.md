@@ -1,0 +1,11 @@
+---
+title: "Photo of the Day: Wooden Bridge In Westport"
+date: "2008-09-20T15:18:56-04:00"
+url: /2008/09/20/photo-of-the-day-wooden-bridge-in-westport/
+categories:
+  - "Photo of the Day"
+---
+
+This picture is also of my home town, back in Connecticut. What I really enjoy about this picture is the color of the grass and the water. The grass is a very pretty green and the water actually looks more blue than the sky.
+
+[![](/assets/img/2008/09/westportbridge.jpg?resize=499%2C330&ssl=1 "Wood Bridge in Westport")](/assets/img/2008/09/westportbridge.jpg?ssl=1)
