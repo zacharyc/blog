@@ -1,0 +1,17 @@
+---
+title: "I Love Shoulder Stands"
+date: "2008-08-25T15:21:43-04:00"
+url: /2008/08/25/i-love-shoulder-stands/
+categories:
+  - Cheerleading
+---
+
+![There are two shoulder stands in this stunt](/assets/img/2008/08/shoulderstands.jpg?resize=260%2C300&ssl=1 "Swedish Falls")
+
+Today I got slammed back into doing shoulder stands at [CheerGym’s](http://www.cheergyms.com) practice. This is a relatively simple stunt where you take a girl throw her up in the air and catch her on your shoulders. I got to do this with my good friend Chaz, and while it didn’t really hurt, I do have some marks on my shoulders from all of her foot prints.
+
+This is actually a stunt I feel very confident with. I’ve used a technique, called the Waldren shoulder stand. With this technique, I catch the girl a little forward, but openning up my chest as she jumps up. The benefit is that I can see and place her feet on me. The drawback is that she normally has take to a step or two back once she lands. Sometimes this is okay, like at a game. Sometimes there are deductions for this, like at a competition.
+
+Either way, was a fun practice, I look forward to doing more of these in the future.
+
+This image is not from cheer gyms practice, it is from my freshman year of cheerleading at Villanova. The guys that have girls standing on their shoulders, they are doing shoulder stands (ps, I’m the guy on the right).

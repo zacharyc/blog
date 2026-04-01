@@ -1,0 +1,10 @@
+---
+title: "97% Human, 3% Beer"
+date: "2012-05-08T15:30:27-04:00"
+url: /2012/05/08/97-human-3-beer/
+categories:
+  - "Make Something Manifesto"
+---
+
+This is an older project I never posted anything about. I met some people from a web company called [Uxebu](http://uxebu.com/blog/). On their website they had a line “97% Human”. I once asked them, what’s the other 3%? Is it Beer? Hence the slogan 97% Human, 3% Beer. I made a mock of a tshirt design for it. Here it is:  
+[![](/assets/img/2012/05/97Human3Beer.png?w=600&ssl=1 "97Human3Beer")](/assets/img/2012/05/97human3beer.png?ssl=1)
