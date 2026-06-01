@@ -1,0 +1,50 @@
+{{- /* Footer custom content area - includes sidebar drawer and its JS */ -}}
+
+{{- partial "sidebar-drawer.html" . }}
+
+<script>
+(function() {
+  const toggle = document.getElementById('drawer-toggle');
+  const panel = document.getElementById('drawer-panel');
+  const overlay = document.getElementById('drawer-overlay');
+  const closeBtn = document.getElementById('drawer-close');
+
+  function openDrawer() {
+    toggle.classList.add('active');
+    panel.classList.add('active');
+    overlay.classList.add('active');
+    panel.setAttribute('aria-hidden', 'false');
+    toggle.setAttribute('aria-expanded', 'true');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeDrawer() {
+    toggle.classList.remove('active');
+    panel.classList.remove('active');
+    overlay.classList.remove('active');
+    panel.setAttribute('aria-hidden', 'true');
+    toggle.setAttribute('aria-expanded', 'false');
+    document.body.style.overflow = '';
+  }
+
+  function toggleDrawer() {
+    if (panel.classList.contains('active')) {
+      closeDrawer();
+    } else {
+      openDrawer();
+    }
+  }
+
+  // Event listeners
+  toggle.addEventListener('click', toggleDrawer);
+  overlay.addEventListener('click', closeDrawer);
+  closeBtn.addEventListener('click', closeDrawer);
+
+  // Keyboard escape to close
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && panel.classList.contains('active')) {
+      closeDrawer();
+    }
+  });
+})();
+</script>

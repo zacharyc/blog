@@ -1,0 +1,72 @@
+{{- /* Sidebar Drawer for Projects */ -}}
+
+<!-- Toggle Button -->
+<button class="drawer-toggle" id="drawer-toggle" aria-label="Toggle projects drawer" aria-expanded="false">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="15 18 9 12 15 6"></polyline>
+  </svg>
+</button>
+
+<!-- Overlay -->
+<div class="drawer-overlay" id="drawer-overlay"></div>
+
+<!-- Drawer Panel -->
+<aside class="drawer-panel" id="drawer-panel" aria-hidden="true">
+  <div class="drawer-content">
+    <div class="drawer-header">
+      <h2>Projects</h2>
+      <button class="drawer-close" id="drawer-close" aria-label="Close drawer">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+    </div>
+
+    {{- with site.Data.projects.current }}
+    <div class="drawer-section">
+      <h3>Current Projects</h3>
+      <ul>
+        {{- range . }}
+        <li>
+          <a href="{{ .url }}" {{ if hasPrefix .url "http" }}target="_blank" rel="noopener noreferrer"{{ end }}>
+            {{- with .logo }}
+            <img class="project-logo" src="{{ . }}" alt="" />
+            {{- end }}
+            <div class="project-info">
+              <span class="project-name">{{ .name }}</span>
+              {{- with .description }}
+              <span class="project-desc">{{ . }}</span>
+              {{- end }}
+            </div>
+          </a>
+        </li>
+        {{- end }}
+      </ul>
+    </div>
+    {{- end }}
+
+    {{- with site.Data.projects.past }}
+    <div class="drawer-section">
+      <h3>Past Projects</h3>
+      <ul>
+        {{- range . }}
+        <li>
+          <a href="{{ .url }}" {{ if hasPrefix .url "http" }}target="_blank" rel="noopener noreferrer"{{ end }}>
+            {{- with .logo }}
+            <img class="project-logo" src="{{ . }}" alt="" />
+            {{- end }}
+            <div class="project-info">
+              <span class="project-name">{{ .name }}</span>
+              {{- with .description }}
+              <span class="project-desc">{{ . }}</span>
+              {{- end }}
+            </div>
+          </a>
+        </li>
+        {{- end }}
+      </ul>
+    </div>
+    {{- end }}
+  </div>
+</aside>

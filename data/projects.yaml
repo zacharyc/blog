@@ -1,0 +1,15 @@
+current:
+  - name: "This Blog"
+    url: "/"
+    description: "Personal blog and thoughts"
+    # logo: "/images/projects/blog-logo.png"
+  - name: "GitHub Projects"
+    url: "https://github.com/zacharyc"
+    description: "Open source contributions"
+    # logo: "/images/projects/github-logo.png"
+
+past:
+  - name: "Past Projects"
+    url: "/projects"
+    description: "Archive of completed projects"
+    # logo: "/images/projects/past-logo.png"

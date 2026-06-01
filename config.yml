@@ -102,8 +102,18 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/zacharyc"
+    - name: instagram
+      url: "https://instagram.com/zacharycohen"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/zacharyc/"
+    - name: email
+      url: "mailto:zachary@zacharyc.com"
     - name: Rss
       url: "index.xml"
+
+  footer:
+    tagline: "Writing about code, life, and everything in between."
+    hidePoweredBy: false
 
   # editPost:
   #   URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"

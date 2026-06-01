@@ -1,0 +1,192 @@
+/* Sidebar Drawer Styles */
+
+/* Toggle button - fixed to right edge */
+.drawer-toggle {
+  position: fixed;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1001;
+  background: var(--tertiary);
+  border: none;
+  border-radius: 8px 0 0 8px;
+  padding: 12px 8px;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.3s ease;
+  box-shadow: -2px 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.drawer-toggle:hover {
+  background: var(--secondary);
+}
+
+.drawer-toggle svg {
+  width: 16px;
+  height: 16px;
+  fill: var(--primary);
+  transition: transform 0.3s ease;
+}
+
+.drawer-toggle.active svg {
+  transform: rotate(180deg);
+}
+
+/* Overlay background */
+.drawer-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.drawer-overlay.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Drawer panel */
+.drawer-panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 320px;
+  max-width: 85vw;
+  height: 100vh;
+  background: var(--entry);
+  z-index: 1000;
+  transform: translateX(100%);
+  transition: transform 0.3s ease;
+  overflow-y: auto;
+  box-shadow: -4px 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.drawer-panel.active {
+  transform: translateX(0);
+}
+
+/* Drawer content */
+.drawer-content {
+  padding: 24px;
+}
+
+.drawer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.drawer-header h2 {
+  margin: 0;
+  font-size: 1.25rem;
+  color: var(--primary);
+}
+
+.drawer-close {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  color: var(--secondary);
+  transition: color 0.2s ease;
+}
+
+.drawer-close:hover {
+  color: var(--primary);
+}
+
+.drawer-close svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+
+/* Project sections */
+.drawer-section {
+  margin-bottom: 24px;
+}
+
+.drawer-section h3 {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--secondary);
+  margin: 0 0 12px 0;
+}
+
+.drawer-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.drawer-section li {
+  margin-bottom: 12px;
+}
+
+.drawer-section a {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  background: var(--code-bg);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.drawer-section a:hover {
+  background: var(--border);
+  transform: translateX(-4px);
+}
+
+.drawer-section .project-logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.drawer-section .project-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.drawer-section .project-name {
+  display: block;
+  font-weight: 500;
+  color: var(--primary);
+  margin-bottom: 4px;
+}
+
+.drawer-section .project-desc {
+  display: block;
+  font-size: 0.875rem;
+  color: var(--secondary);
+}
+
+/* Mobile responsive */
+@media (max-width: 640px) {
+  .drawer-panel {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .drawer-toggle {
+    padding: 10px 6px;
+  }
+
+  .drawer-toggle svg {
+    width: 14px;
+    height: 14px;
+  }
+}

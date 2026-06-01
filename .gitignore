@@ -2,3 +2,4 @@
 
 # Don't send up build files
 public
+resources/_gen/
