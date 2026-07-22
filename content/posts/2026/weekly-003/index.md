@@ -15,7 +15,7 @@ cover:
 
 I'm working on a project called [Revi](https://revi-it.com) with my [Newport Technology Group](https://newporttechgroup.com). This project is really exciting for me because it starts to set up some of the bigger things I have my eyes on within Technology.
 
-Building on last week. Moonshots are crazy audatious by design. Some of the longer term goals for Revi and NPT-TG are more like Mars Shots than moon shots. We need to start with the simple.
+Building on last week. Moonshots are crazy audacious by design. Some of the longer-term goals for Revi and NPT-TG are more like Mars Shots than moon shots. We need to start with the simple.
 
 Revi is complex enough to be a full project, but is just a stop on the way to building something even more grand. Still, let's talk about Revi.
 
