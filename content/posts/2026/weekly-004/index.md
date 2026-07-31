@@ -48,7 +48,7 @@ Ford Bench at Lucky's
 ![Ford bench at Luckys](ford-bench.jpeg)
 
 Lucky's
-![Lucky's](lukcys.jpeg)
+![Lucky's](luckys.jpeg)
 
 Audi I shot
 ![Audi URQuattro](audi.jpeg)
