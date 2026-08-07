@@ -5,8 +5,8 @@ url: /2026/weekly-005/
 draft: false
 tags: ["life", "coffee"]
 cover:
-  image: ".jpeg"
-  alt: ""
+  image: "moonshot.png"
+  alt: "Moonshot logo"
   caption: ""
   relative: true
 ---
